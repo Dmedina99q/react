@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "reactd3798c11": {}
+      },
+      "api": {
+        "react": {}
+      },
+      "storage": {
+        "s31bdb7cca": {}
       }
     }
   }
